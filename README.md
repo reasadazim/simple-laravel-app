@@ -36,6 +36,7 @@ This is a basic Laravel Application which stores **agents**, **customers** and *
  - Clone the repo.
  - A demo sql database is uploaded in ***/databases/sql/*** directory.
  - Import the database.
+ - Admin Registration: http://YOUR_HOSTNAME/register
  - All demo images and files are uploaded in ***/storage/files/public*** direcotry.
 
 ## Troubleshoot
