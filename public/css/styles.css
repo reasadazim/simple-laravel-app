@@ -1,0 +1,12 @@
+/* Data Tables */
+
+.dataTables_wrapper .dataTables_length select {
+    width: 70px !important;
+}
+
+div#example_filter {
+    margin-bottom: 20px;
+}
+
+
+/* END - Data Tables */
