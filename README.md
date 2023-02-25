@@ -46,3 +46,11 @@ If images and styles are not loaded please run following commands:
 >> npm run build
 >> php artisan cache:clear
 ```
+#Screenshots
+![Login](https://reasadazim.com/wp-content/uploads/2023/02/1.png)
+![Dashboard](https://reasadazim.com/wp-content/uploads/2023/02/2.png)
+![Agent List](https://reasadazim.com/wp-content/uploads/2023/02/3.png)
+![Agent Details](https://reasadazim.com/wp-content/uploads/2023/02/4.png)
+![Customer Details](https://reasadazim.com/wp-content/uploads/2023/02/6.png)
+![Order Details](https://reasadazim.com/wp-content/uploads/2023/02/5.png)
+![Add Customer](https://reasadazim.com/wp-content/uploads/2023/02/7.png)
