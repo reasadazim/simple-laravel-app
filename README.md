@@ -1,5 +1,7 @@
 # Simple Laravel App
+
 Project url: http://simplelaravelapp.reasadazim.com
+
 This is a basic Laravel Application which stores **agents**, **customers** and **orders** information. 
  - [x] **Each order has 1 agent and 1 coustomer.**
  - [x] **Each customer has 1 agent.** 
